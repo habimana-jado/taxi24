@@ -11,9 +11,9 @@ This project is a coding challenge application that allows registration/view/ini
   
 ## Technologies
 This project is created with:
-* Java - JSF 2.2
+* Java 8 - Spring boot V 2.5.2
 * Hibernate 4.3.1
-* HTML 5, Javascript
+* Maven V 3.6.2
 
 ## How to run
 Project is implemented in Java 8 Spring boot V 2.5.2 with maven V 3.6.2
